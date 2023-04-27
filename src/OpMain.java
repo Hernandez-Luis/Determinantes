@@ -8,13 +8,7 @@ public class OpMain {
         int x=0;
 
         while (x!=2){
-            System.out.println("a + b = c");
-            System.out.println("Ingresa el valor de a: ");
-            a= scanner.nextDouble();
-            System.out.println("Ingresa un valor para b: ");
-            b = scanner.nextDouble();
-            System.out.println("Ingresa un valor para c: ");
-            c = scanner.nextDouble();
+
 
             System.out.println("d + e = f");
             System.out.println("Ingresa el valor de d: ");
